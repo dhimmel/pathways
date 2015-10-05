@@ -4,4 +4,4 @@ This repository compiles pathway gene sets from [WikiPathways](http://www.wikipa
 
 Only protein-coding human genes (Entrez GeneIDs) are included. See the corresponding [Thinklab discussion](https://doi.org/10.15363/thinklab.d72) for more information.
 
-Execute the `merge-resources.ipynb` python notebook to rebuild the dataset.
+Execute the [`merge-resources.ipynb`](merge-resources.ipynb) python notebook to rebuild the dataset.
